@@ -1,0 +1,24 @@
+
+ro.qrom.beaconkey=0M000V5PH01B6QQD
+ro.qrom.build.os=android4.4.4
+ro.qrom.otapath=/storage/sdcard0
+
+qrom_disposeIcon_enable=1
+qrom_permission_enable=1
+ro.qrom.product.device=Q505T
+ro.qrom.product.device.brand=zte
+
+ro.qrom.build.version.number=10160402
+ro.qrom.build.version.name=ADRQRTOS10_B
+ro.qrom.build.version.snflag=ADRQRTOS
+ro.qrom.build.version.snver=10
+ro.qrom.build.version.day=160402
+ro.qrom.build.version.type=B
+ro.qrom.build.number=235
+ro.qrom.build.lc=93BC3AF05AFFFD26
+ro.qrom.build.lcid=2787
+ro.qrom.build.brand=tos
+ro.qrom.build.date=Thu Jan 28 17:51:29 CST 2016
+ro.qrom.build.date.utc=1453974689
+ro.qrom.build.os=android4.4.4
+ro.qrom.build.type=M
